@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fashion Outfit Recommender
 
 Welcome to the Fashion Outfit Recommender project! This project utilizes a ResNet 50 Model to recommend fashion outfits based on various techniques including Intent Classification, Web Scraping, and Convolutional Neural Networks.
@@ -100,3 +101,6 @@ NOTE: use pip command to import the libraries
 This project was made possible with the support of [Pinscrape](https://github.com/rmcgibbo/pinscrape) for web scraping and the [ResNet50 model](https://keras.io/api/applications/resnet/#resnet50-function) for Convolutional Neural Networks.
 
 Feel free to contribute, report issues, or provide suggestions to enhance this project!
+=======
+# Fashion-Recommendation-Engine
+>>>>>>> c6d18418bfb85e75189c9b189276aba00364efc8
